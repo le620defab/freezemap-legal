@@ -1,10 +1,10 @@
-# Politique de confidentialité — Congelo
+# Politique de confidentialité — FreezeMap
 
-**Dernière mise à jour :** 5 octobre 2026
+**Dernière mise à jour :** 6 octobre 2026
 
 ## En résumé
 
-Congelo tient l'inventaire de vos congélateurs. Pour cela, l'application
+FreezeMap tient l'inventaire de vos congélateurs. Pour cela, l'application
 enregistre votre adresse e-mail, l'organisation de vos congélateurs et la
 liste des produits que vous y rangez. Rien d'autre. Aucune publicité, aucun
 traceur, aucune revente de données, aucun partage avec des tiers à des fins
@@ -60,7 +60,7 @@ Lorsque vous dictez un produit, la reconnaissance vocale s'effectue **sur
 votre appareil** chaque fois que le modèle français y est disponible : votre
 voix ne quitte alors pas votre iPhone. Si ce modèle n'est pas disponible,
 iOS peut transmettre l'enregistrement aux serveurs d'Apple pour le
-transcrire, selon les modalités d'Apple. Congelo ne conserve ni
+transcrire, selon les modalités d'Apple. FreezeMap ne conserve ni
 l'enregistrement audio ni la transcription : seul le texte reconnu remplit
 le formulaire, sous vos yeux, et vous restez libre de le corriger.
 
@@ -74,14 +74,14 @@ est oubliée dès la lecture terminée. Seul le texte reconnu remplit le
 formulaire, sous vos yeux, et vous restez libre de le corriger.
 
 L'appareil photo n'est utilisé qu'à votre demande, après votre autorisation.
-Dans la photothèque, Congelo ne reçoit que la photo que vous choisissez : il
+Dans la photothèque, FreezeMap ne reçoit que la photo que vous choisissez : il
 n'a pas accès au reste de vos images.
 
 ## Les achats et l'abonnement
 
 Les achats (abonnement mensuel ou annuel, achat « à vie ») sont traités
 **exclusivement par Apple**, selon ses propres conditions et sa politique de
-confidentialité. Congelo ne reçoit ni ne conserve aucune donnée de paiement.
+confidentialité. FreezeMap ne reçoit ni ne conserve aucune donnée de paiement.
 
 Pour savoir si Premium est actif, l'application consulte sur votre iPhone
 les informations d'achat qu'Apple y met à disposition, et vérifie leur
@@ -96,7 +96,7 @@ elles s'affichent.
 
 ## Hors connexion
 
-Pour que vous puissiez ajouter un produit sans réseau, Congelo garde sur
+Pour que vous puissiez ajouter un produit sans réseau, FreezeMap garde sur
 votre iPhone une copie de vos congélateurs, de vos zones et de vos durées de
 conservation, ainsi que les produits saisis hors connexion en attendant leur
 envoi. Ces fichiers restent sur l'appareil, protégés par le chiffrement
@@ -128,7 +128,7 @@ introduire une réclamation auprès de la CNIL.
 
 ## Les enfants
 
-Congelo ne s'adresse pas aux moins de 13 ans et ne collecte pas sciemment
+FreezeMap ne s'adresse pas aux moins de 13 ans et ne collecte pas sciemment
 leurs données.
 
 ## Modifications
